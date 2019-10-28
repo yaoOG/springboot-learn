@@ -1,0 +1,6 @@
+2019-10-23 20:54:36.120  INFO [springAppName_IS_UNDEFINED,,,] 85986 --- [main] com.boot.learn.LearnApplication          : Starting LearnApplication on Yao.local with PID 85986 (/Users/zhuyao/git/myself/springboot-learn/target/classes started by zhuyao in /Users/zhuyao/git/myself/springboot-learn)
+2019-10-23 20:54:36.123  INFO [springAppName_IS_UNDEFINED,,,] 85986 --- [main] com.boot.learn.LearnApplication          : No active profile set, falling back to default profiles: default
+2019-10-23 20:54:36.558  INFO [springAppName_IS_UNDEFINED,,,] 85986 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-10-23 20:54:36.563  INFO [springAppName_IS_UNDEFINED,,,] 85986 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-23 20:54:36.606  INFO [springAppName_IS_UNDEFINED,,,] 85986 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 18ms. Found 0 repository interfaces.
+2019-10-23 20:54:37.263  INFO [springAppName_IS_UNDEFINED,,,] 85986 --- [main] com.boot.learn.LearnApplication          : Started LearnApplication in 1.605 seconds (JVM running for 2.176)
