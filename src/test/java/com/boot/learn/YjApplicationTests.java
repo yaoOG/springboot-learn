@@ -31,4 +31,8 @@ public class YjApplicationTests {
         User user1 = (User) redisTemplate.opsForValue().get("user1");
         System.out.println(user1);
     }
+
+    public static void main(String[] args) {
+
+    }
 }
